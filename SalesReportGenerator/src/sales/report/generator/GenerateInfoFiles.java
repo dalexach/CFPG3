@@ -114,7 +114,7 @@ public class GenerateInfoFiles {
 		createFolder(folder);
 		createFile(fileProducts);
 		createFile(fileSellers);
-		writeProductsFile(fileProducts, 40);
+		writeProductsFile(fileProducts, 10);
 		writeSellersFile(fileSellers, 10);
 		
 	}
