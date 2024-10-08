@@ -1,5 +1,5 @@
 # CFPG3
-Desarrollo de actividades de entregables para la materia Conceptos fundamentales de programación
+Desarrollo de actividades de entregables para la asignatura Conceptos Fundamentales de Programación - Grupo 01 - SubGrupo 03
 
 ## Anotaciones de Lombok:
 1. Consideraciones para usar Lombok
