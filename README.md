@@ -9,5 +9,5 @@ Desarrollo de actividades de entregables para la asignatura Conceptos Fundamenta
  - @Data: Combina @Getter, @Setter, @ToString, @EqualsAndHashCode, y @RequiredArgsConstructor.
 
 2. Configuración en Eclipse:
--Descarga lombok.jar e intégralo en Eclipse.
--Agrega lombok.jar al classpath del proyecto.
+ - Descarga lombok.jar e intégralo en Eclipse.
+ - Agrega lombok.jar al classpath del proyecto.
