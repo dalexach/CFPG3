@@ -28,7 +28,7 @@ public class Main {
 			System.out.println("Generando archivos...");
 			GenerateInfoFiles.main(new String[0]); // Call the main method of GenerateInfoFiles
 
-			System.out.println("¡Proceso completado exitosamente!");
+			System.out.println("Â¡Proceso completado exitosamente!");
 
 			/*
 			 * TODO: Create a file with information about the products sold by quantity,
@@ -37,7 +37,7 @@ public class Main {
 			 */
 
 		} catch (Exception e) {
-			System.err.println("Ocurrió un error: " + e.getMessage());
+			System.err.println("OcurriÃ³ un error: " + e.getMessage());
 		}
 	}
 
